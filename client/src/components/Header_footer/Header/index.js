@@ -6,7 +6,9 @@ class Header extends Component {
             <header className="bck_b_light">
                 <div className="container">
                     <div className="left">
-                        WAVES
+                        <div className="logo">
+                            WAVES
+                        </div>
                     </div>
                     <div className="right">
                         <div className="top">
